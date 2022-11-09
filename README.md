@@ -1,7 +1,8 @@
-# Trabalho de Álgebra Linear
-Avaliação 2
+# Trabalho de Álgebra Linear - A2
 Tema: Renderização de Polígonos
 
-Alunos:
+Integrantes:
+
 George Rodrigues Vaz
+
 Luan Rodrigues de Carvalho
